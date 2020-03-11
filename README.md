@@ -1,6 +1,12 @@
 # IWO2019
 ## Milestone 5, Task 2
 
+## Usage
+To use the code, the following commands should be executed in the terminal of your UNIX computer (at the location of the file wiki_count_de.sh):
+chmod +x wiki_count_de.sh (to make the file executable)
+./wiki_count_de.sh
+
+
 ## Goal
 This repository was made for a course of the study Information Science in Groningen. It is used to share the code for assessment.
 
